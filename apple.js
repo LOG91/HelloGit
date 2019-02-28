@@ -1,4 +1,4 @@
 whale and log91
-vin
+vinn
 
 console.log('wejfhowefowef');
